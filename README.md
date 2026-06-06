@@ -7,7 +7,7 @@ to predict property prices.
 
 ## Model Performance
 - **R²:** 0.94
-- **MAE:** 62,000 zł
+- **MAE:** 62,000 zł or $17,000
 - **Data:** Polish real estate market (2023–2024)
 
 ## Skills Used
