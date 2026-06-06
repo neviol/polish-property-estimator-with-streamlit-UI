@@ -17,7 +17,7 @@ Hyperparameter Tuning, Streamlit
 ## How to Run
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Train the model by running `notebook.ipynb` to generate the `.pkl` files
+3. Use existing `.pkl` files or train the model by running `notebook.ipynb` to generate the `.pkl` files
 4. Run the app: `python -m streamlit run app.py`
 
 ## Screenshots
