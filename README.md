@@ -21,4 +21,5 @@ Hyperparameter Tuning, Streamlit
 4. Run the app: `python -m streamlit run app.py`
 
 ## Screenshots
-(add a screenshot of your app here)
+<img width="951" height="437" alt="image" src="https://github.com/user-attachments/assets/108afb71-727c-4bbb-8818-e448571faa22" />
+
