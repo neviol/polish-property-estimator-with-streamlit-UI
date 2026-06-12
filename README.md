@@ -1,9 +1,6 @@
 # 🏠 Polish Property Price Estimator
 A machine learning web application built for Chelister Dewelopment.
 
-
-Project Streamlit Link: https://polish-property-estimator-with-app-ui-chelister.streamlit.app/
-
 ## Overview
 XGBoost regression model trained on 195,000 Polish apartment listings 
 to predict property prices.
