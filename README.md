@@ -1,5 +1,6 @@
 # 🏠 Polish Property Price Estimator
 A machine learning web application built for Chelister Dewelopment.
+
 Their Instagram: https://www.instagram.com/chelister_dewelopment/
 Project Streamlit Link: https://polish-property-estimator-with-app-ui-chelister.streamlit.app/
 
