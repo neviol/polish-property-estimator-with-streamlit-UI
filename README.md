@@ -1,5 +1,6 @@
 # 🏠 Polish Property Price Estimator
 A machine learning web application built for Chelister Dewelopment.
+Their Instagram: https://www.instagram.com/chelister_dewelopment/
 
 ## Overview
 XGBoost regression model trained on 195,000 Polish apartment listings 
