@@ -28,3 +28,5 @@ Hyperparameter Tuning, Streamlit
 ## Additional
 Chelister Dewelopment Instagram: https://www.instagram.com/chelister_dewelopment/
 
+My Kaggle Profile: https://www.kaggle.com/olehnevidomskyi
+
